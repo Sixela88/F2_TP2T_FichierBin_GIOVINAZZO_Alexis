@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519583688 source:d:\alexis\ludus académie\projets en c\exercicestd2t\fichierbinaire_carteid\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
